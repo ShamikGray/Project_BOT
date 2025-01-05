@@ -1,2 +1,2 @@
 # Project_BOT
-Project created to maek some useful bots.
+Project created to make some useful bots.
